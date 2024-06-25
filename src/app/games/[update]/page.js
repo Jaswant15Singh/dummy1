@@ -20,6 +20,7 @@ data=await data.json();
 console.log(data);
 if(data.success){
 console.log("done");
+console.log("git was here")
 setName(data.name);
 setPrice(data.price);
 setCompany(data.company);
