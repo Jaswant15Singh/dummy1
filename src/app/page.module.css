@@ -5,6 +5,28 @@
   align-items: center;
   padding: 6rem;
   min-height: 100vh;
+  background-color:black;
+}
+
+.header{
+  background-color: skyblue;
+  width: 100vw;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.header li{
+display: inline-block;
+margin:auto 40px;
+padding: 20px;
+margin-top: 0;
+}
+
+.footer{
+  background-color: skyblue;
+  width: 100vw;
+  text-align: center;
 }
 
 .description {

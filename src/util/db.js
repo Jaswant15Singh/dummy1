@@ -1,0 +1,1 @@
+export const connectionStr="mongodb+srv://singhjaswant0932:jaswant123@cluster0.4fndxn7.mongodb.net/Gaming?retryWrites=true&w=majority&appName=Cluster0"
