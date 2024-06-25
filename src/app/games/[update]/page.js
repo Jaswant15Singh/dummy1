@@ -12,7 +12,7 @@ const page = (props) => {
 useEffect(()=>{
 getProd()
 },[])
- //
+ //Git example
 const getProd=async ()=>{
      let productId=props.params.update;
 let data=await fetch("http://localhost:3000/api/products/65e3174c00de9c9319c9f4e5");
